@@ -28,8 +28,6 @@
 
 * According to Morninstar’s 2019 annual report, while other companies may offer research, ratings, data, software products, or investment-management services, they are one of the few companies that can deliver all of these with the best interest of the investor in mind. By putting investors first, paired with the way they use design and technology to communicate complex financial information, sets them apart from their peers in the financial services industry.
 
-* Which technologies are they currently using, and how are they implementing them? (This may take a little bit of sleuthing–– you may want to search the company’s engineering blog or use sites like Stackshare to find this information.)
-
 * Morningstar uses 61 technology products and services including HTML5, Google Analytics, and jQuery.
 
 | ![HTML5](https://icon-library.com/images/html5-icon/html5-icon-0.jpg)| ![Google Analytics](https://img.favpng.com/23/8/8/google-logo-google-analytics-png-favpng-362QrWkh2Bv4z8B5AhFF9n5yk_t.jpg)] | ![JQuery](https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/092011/jquery.png?itok=Yh7GpHmE) |
@@ -65,10 +63,9 @@
 
 * Their extensive line of products has empowered various financial professionals, including individual investors, financial advisors, asset managers, retirement plan providers, and institutional investors to make informed investment decisions.
 
-**Metrics in main domain:**
-    Revenue | 
-    Employee |
-    CEO Rating
+**Metrics in main domain:** 
+
+Revenue | Employee | CEO Rating
 
   * Morningstar:
     * Revenue = $1.3B
