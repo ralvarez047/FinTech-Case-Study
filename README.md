@@ -30,7 +30,7 @@
 
 * Morningstar uses 61 technology products and services including HTML5, Google Analytics, and jQuery.
 
-| ![HTML5](https://icon-library.com/images/html5-icon/html5-icon-0.jpg)| ![Google Analytics](https://img.favpng.com/23/8/8/google-logo-google-analytics-png-favpng-362QrWkh2Bv4z8B5AhFF9n5yk_t.jpg)] | ![JQuery](https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/092011/jquery.png?itok=Yh7GpHmE) |
+| ![HTML5](https://icon-library.com/images/html5-icon/html5-icon-0.jpg)| ![Google Analytics](https://img.favpng.com/23/8/8/google-logo-google-analytics-png-favpng-362QrWkh2Bv4z8B5AhFF9n5yk_t.jpg) | ![JQuery](https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/092011/jquery.png?itok=Yh7GpHmE) |
 |:---:|:---:|:---:|
 
 ## Landscape:
