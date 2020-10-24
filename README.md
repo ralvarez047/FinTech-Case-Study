@@ -30,44 +30,99 @@
 
 * Which technologies are they currently using, and how are they implementing them? (This may take a little bit of sleuthing–– you may want to search the company’s engineering blog or use sites like Stackshare to find this information.)
 
-Morningstar uses 61 technology products and services including HTML5, Google Analytics, and jQuery.
+* Morningstar uses 61 technology products and services including HTML5, Google Analytics, and jQuery.
+
+| ![HTML5](https://icon-library.com/images/html5-icon/html5-icon-0.jpg)| ![Google Analytics](https://img.favpng.com/23/8/8/google-logo-google-analytics-png-favpng-362QrWkh2Bv4z8B5AhFF9n5yk_t.jpg)] | ![JQuery](https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/092011/jquery.png?itok=Yh7GpHmE) |
+|:---:|:---:|:---:|
 
 ## Landscape:
 ---
 
-* Morningstar's main domains inclide;
+* Morningstar's main domains includes :
     * Big Data 
     * Analytics 
-    * Robo  
+    * Robo Advising
     * Investment Advising
 
 
 * Major trends and innovations of this domain over the last 5-10 years include:
-    * Augmented Data Analytics and Augmented Data Management
+    * Augmented Data Analytics
+    * Augmented Data Management
     * Natural Language Processing (NLP)
     * Commercial AI and Machine Learning
     * Data Fabric
-    * Blockchain in data and analytics
+    * Blockchain in Data and Analytics
     * Continuous Intelligence
 
 
 * Major competitors :
     * Bloomberg, L.P
-    * MarketWatch, Inc
-    * Thomson Reuters Corp
+    * S&P Global
+    * Ice
 
 ## Results
 ---
 
 * Their extensive line of products has empowered various financial professionals, including individual investors, financial advisors, asset managers, retirement plan providers, and institutional investors to make informed investment decisions.
 
-* Core Metrics :
-    * Revenue
-    * Profitability
-    * Risk
+**Metrics in main domain:**
+    Revenue | 
+    Employee |
+    CEO Rating
 
-* How is your company performing, based on these metrics?
+  * Morningstar:
+    * Revenue = $1.3B
+    * Employee = 5416
+    * CEO Rating = 76
 
-* How is your company performing relative to competitors in the same domain?
+  * Bloomberg:
+    * Revenue = $10.5B
+    * Employee = 20,000
+    * CEO Rating = 76
+    
+  * Ice:
+    * Revenue = $7.1B
+    * Employee = 5161
+    * CEO Rating = 70
+    ## Recommendations
+---
+
+* Morningstar’s rating system  was entirely dependent on average past returns. The flaw in that approach was that by the time the fund received a five-star rating for past performances, it might have been too late to participate. Morningstar has already made some changes to their rating system to include a more forward-looking approach. This is a great example on how Morningstar is implementing changes to meet their client demands. Based on current investor trends I believe that Morningstar should launch a dedicated news service. 
+
+* Top three reasons for to launch a dedicated news service:
+    * Being a source of news will have a great impact for the companies future growth
+    * News affect decision making for investors
+    * Brand visibility
+
+* Some of technologies proposed for this service: 
+
+  * Optimizely | Experimentation platform for marketing, product, and engineering teams, with feature flags and personalization
+
+  * Backbone.Js | Give your JS App some Backbone with Models, Views, Collections, and Events
+
+  * Polymer | A new library built on top of Web Components, designed to leverage the evolving web platform on modern browsers
+
+## Addendum list 
+---
+https://www.investopedia.com/terms/m/morningstarinc.asp
+
+https://shareholders.morningstar.com/investor-relations/resources/faqs/default.aspx
+
+https://www.investmentnews.com/morningstar-evolving-well-beyond-its-origins-analyzing-mutual-funds-74367
+
+https://www.morningstar.com/insights/2019/02/26/technology-investing
+
+https://www.gartner.com/smarterwithgartner/gartner-top-10-data-analytics-trends/ 
+
+https://fintechsandbox.org/partner/morningstar-inc
+
+https://www.crunchbase.com/organization/morningstar/technology
+
+https://potomacfund.com/why-morningstar-ratings-are-not-helpful/
+
+https://www.owler.com/company/morningstar
+
+    
+    
 
 
