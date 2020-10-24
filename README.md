@@ -81,7 +81,8 @@ Revenue | Employee | CEO Rating
     * Revenue = $7.1B
     * Employee = 5161
     * CEO Rating = 70
-    ## Recommendations
+    
+## Recommendations
 ---
 
 * Morningstar’s rating system  was entirely dependent on average past returns. The flaw in that approach was that by the time the fund received a five-star rating for past performances, it might have been too late to participate. Morningstar has already made some changes to their rating system to include a more forward-looking approach. This is a great example on how Morningstar is implementing changes to meet their client demands. Based on current investor trends I believe that Morningstar should launch a dedicated news service. 
